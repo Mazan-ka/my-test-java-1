@@ -1,1 +1,1 @@
-# my-test-java-1
+# Тестовый проект Mazanka
